@@ -6,6 +6,6 @@ export default defineConfig({
   server: {
     port: 3000,
     host: true,
-    allowedHosts: ['.trycloudflare.com', '.loca.lt']
+    allowedHosts: ['.trycloudflare.com', '.loca.lt', '.pinggy-free.link', '.pinggy.net']
   }
 })
